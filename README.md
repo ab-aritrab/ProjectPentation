@@ -24,6 +24,10 @@ https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-release-notes?view=s
 
 ***https://packages.microsoft.com/ubuntu/16.04/mssql-server-2017/pool/main/m/mssql-server/***
 
+GUI LINUX (SAME LIKE SSMS)
+
+https://askubuntu.com/questions/788197/graphical-ms-sql-clients-for-a-ubuntu-desktop
+
 ```
 sudo dpkg -i mssql-server_14.0.3391.2-12_amd64.deb
 "-------OUTPUT---------"
